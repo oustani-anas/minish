@@ -1,0 +1,1 @@
+Developed Minishell, a custom command-line interpreter in C. This project involved parsing user input, managing processes (fork, execve), and implementing core shell features like I/O redirection (<, >, <<, >>), pipes (|), signal handling (Ctrl+C), environment variable expansion, and essential built-in commands (cd, echo, exit, etc.).
